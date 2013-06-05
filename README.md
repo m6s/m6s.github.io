@@ -1,4 +1,1 @@
-m6s.github.io
-=============
-
-Homepage
+This page is empty.
