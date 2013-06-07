@@ -1,5 +1,6 @@
 ---
 layout: index
+abstract: Mobile Development, Climbing, Cycling
 ---
 ## About
 
