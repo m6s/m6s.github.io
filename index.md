@@ -2,7 +2,7 @@
 layout: index
 title: Matthias Schmitt
 abstract: Mobile Development, Climbing, Cycling
-contact: [View My GitHub Profile](https://github.com/m6s)
+contact: View My GitHub Profile
 ---
 ## About
 
