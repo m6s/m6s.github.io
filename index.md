@@ -1,11 +1,13 @@
 ---
 layout: index
+title: Matthias Schmitt
 abstract: Mobile Development, Climbing, Cycling
+contact: [View My GitHub Profile](https://github.com/m6s)
 ---
 ## About
 
-I am an Android and iOS developer based in Berlin.
+I'm an Android and iOS developer based in Berlin.
 
 ## Open Source
 
-- The past year I have been working on a personal project, which I recently released on Github: [Kava Touch](https://github.com/KavaProject/KavaTouch)
+- The past year I've been working on a personal project, which I recently released: [Kava Touch](https://github.com/KavaProject/KavaTouch)
