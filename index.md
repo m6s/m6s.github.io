@@ -10,4 +10,6 @@ I'm an Android and iOS developer based in Berlin.
 
 ## Open Source
 
-- The past year I've been working on a personal project, which I recently released: [Kava Touch](https://github.com/KavaProject/KavaTouch)
+- I'm the inventor of [AndroidKit](http://mschmitt.info/AKProject), a port of major CocoaTouch frameworks to Android.
+
+- My latest project is a [TV-Guide app](https://github.com/m6s/xmltv) for Android which can connect to XMLTV servers.
