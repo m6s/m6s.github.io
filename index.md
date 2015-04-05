@@ -2,7 +2,7 @@
 layout: index
 title: Matthias Schmitt
 abstract: Mobile Development, Climbing, Cycling
-email: web221571@mschmitt.info
+email: web221572@mschmitt.info
 ---
 ## About
 
