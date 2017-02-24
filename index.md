@@ -1,15 +1,19 @@
 ---
 layout: index
 title: Matthias Schmitt
-abstract: Mobile Development, Climbing, Cycling
+abstract: Mobile development and architecture
 email: web221572@mschmitt.info
 ---
 ## About
 
-I'm an Android and iOS developer based in Berlin.
+I do mobile development for the Android and iOS platforms. I'm based in Berlin.
 
 ## Open Source
 
-- I'm the inventor of [AndroidKit](http://mschmitt.info/AKProject), a port of major CocoaTouch frameworks to Android.
+- Slightly outdated Android architecture blueprint: [GitHub Browser](https://github.com/m6s/githubbrowser-android)
 
-- My latest project is a [TV-Guide app](https://github.com/m6s/xmltv) for Android which can connect to XMLTV servers.
+- Lean Objective-C wrapper around SQLite: [SQLiteConnection](https://github.com/m6s/SQLiteConnection)
+
+- NSXMLParser drop-in replacement: [XMLScannerParser](https://github.com/m6s/XMLScannerParser)
+
+- Port of major CocoaTouch frameworks to Android: [AndroidKit](http://mschmitt.info/AKProject) (source coming soon)
