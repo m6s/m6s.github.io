@@ -1,12 +1,12 @@
 ---
 layout: index
 title: Matthias Schmitt
-abstract: Mobile development and architecture
-email: web221572@mschmitt.info
+abstract: Road cycling, climbing, mobile development
+email: web221573@mschmitt.info
 ---
 ## About
 
-I do mobile development for the Android and iOS platforms. I'm based in Berlin.
+I do mobile development for Android and iOS. I'm based in Berlin.
 
 ## Open Source
 
